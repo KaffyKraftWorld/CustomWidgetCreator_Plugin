@@ -1,0 +1,10 @@
+/* Styling the custom widget content */
+
+.widget .widget-content {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
